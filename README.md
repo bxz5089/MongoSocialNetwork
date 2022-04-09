@@ -99,7 +99,6 @@ No seed data is provided, so you’ll need to create your own data using Insomni
 
 - `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-
 ## Usage
 
 For learning about NoSQL database (MongoDB)
@@ -111,7 +110,7 @@ For learning about NoSQL database (MongoDB)
 
 ### Walkthrough Video:
 
-[![Watch the video here]()](https://drive.google.com/file/d/1QTtUpXADpg4hcaVns7HmgPFpLEkFPRVQ/view?usp=sharing)
+[![Watch the video here]](https://drive.google.com/file/d/1QTtUpXADpg4hcaVns7HmgPFpLEkFPRVQ/view?usp=sharing)
 
 ---
 
